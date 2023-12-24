@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://github.com/gozargah/marzban" target="_blank" rel="noopener noreferrer">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
+    <img width="40" height="40" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
+    </picture>
+</a>
+</p>
+
+
 <p align="center" dir="rtl"><b> فروش فیلتر شکن و وی پی ان V2Ray بدون قطعی، دو کاربره و با حجم نامحدود <b/></p> 
 <p align="center" dir="rtl">ارائه کانفیگ V2RAY قابل اجرا بر روی همه سیستم ها </p>
 
