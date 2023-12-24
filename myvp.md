@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/gozargah/marzban" target="_blank" rel="noopener noreferrer">
+<a href="https://wba.uuvp.shop" target="_blank" rel="noopener noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
     <img width="40" height="40" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
