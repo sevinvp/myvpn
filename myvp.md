@@ -1,15 +1,3 @@
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P8JL6DHN0E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P8JL6DHN0E');
-</script>
-
-
 <p align="center">
 <a href="https://wba.uuvp.shop" target="_blank" rel="noopener noreferrer">
     <picture>
