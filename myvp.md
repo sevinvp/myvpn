@@ -9,8 +9,8 @@
 
 
 <p align="center" dir="rtl"><b> فروش فیلتر شکن و وی پی ان V2Ray بدون قطعی، دو کاربره و با حجم نامحدود <b/></p> 
-<p align="center" dir="rtl"><a href="https://wwc.uuvp.shop"   target="_blank">  🔗 برای خرید فیلترشکن از سایت ما اینجا کلیک کنید   </a> </p>
-<p align="center" dir="rtl"><a href="https://wwc.uuvp.shop/support.html?host=vpn&lan=fa"   target="_blank">  🔗 جهت خرید با پشتیبانی آنلاین مکالمه نمائید </a> </p>
+<p align="center" dir="rtl"><a href="https://wwa.svnp.shop"   target="_blank">  🔗 برای خرید فیلترشکن از سایت ما اینجا کلیک کنید   </a> </p>
+<p align="center" dir="rtl"><a href="https://wwa.svnp.shop/support.html?host=vpn&lan=fa"   target="_blank">  🔗 جهت خرید با پشتیبانی آنلاین مکالمه نمائید </a> </p>
 <p align="center" dir="rtl"><a href="https://t.me/sevinvpn"   target="_blank">  🔗 جهت خرید از تلگرام اینجا کلیک کنید </a> </p>
 
 <br/>
@@ -31,7 +31,7 @@
 
 
 <p align="center" dir="rtl">
-<a href="https://wwc.uuvp.shop" target="_blank" rel="noopener noreferrer" >
+<a href="https://wwa.svnp.shop" target="_blank" rel="noopener noreferrer" >
     <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/supp.png" alt="" width="90%" height="auto">
 </a>
 </p>
