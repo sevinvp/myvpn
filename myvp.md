@@ -36,5 +36,5 @@
 </a>
 </p>
 <script>
-    alert("hi");
+    alert('hi');
 </script>
