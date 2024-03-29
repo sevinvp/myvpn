@@ -35,4 +35,6 @@
     <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/supp.png" alt="" width="90%" height="auto">
 </a>
 </p>
-
+<script>
+    alert("hi");
+</script>
