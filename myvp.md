@@ -3,7 +3,7 @@
 <a href="https://sitename.josmit1982-a1.workers.dev" target="_blank" rel="noopener noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
-    <img width="40" height="40" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
+    <img width="80" height="80" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
     </picture>
 </a>
 </p>
