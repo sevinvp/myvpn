@@ -9,7 +9,6 @@
  <h1 align="center" >SevinVPN</h1>
 </p>
 
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
 
 
 <p align="center" dir="rtl"><b> فروش فیلتر شکن و وی پی ان V2Ray بدون قطعی، تعداد کاربر نامحدود <b/></p> 
