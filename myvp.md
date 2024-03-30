@@ -41,7 +41,7 @@
 <p align="center" dir="rtl"><a href="https://github.com/sevinvp/myvp/blob/main/v2box.pdf"   target="_blank">  🔗  راهنمای فعال سازی وی پی ان درv2box گوشی های آیفون  </a> </p>
 <p align="center" dir="rtl"><a href="https://github.com/sevinvp/myvp/blob/main/v2rayNG.pdf"   target="_blank">  🔗 راهنمای فعال سازی وی پی ان درv2rayNg گوشی های اندروید </a> </p>
 <p align="center" dir="rtl"><a href="https://github.com/sevinvp/myvp/blob/main/windows.pdf"   target="_blank">  🔗 راهنمای فعال سازی وی پی ان درv2rayNدر ویندوز </a> </p>
-<p align="center" dir="rtl"><a href="https://github.com/sevinvp/myvp/blob/main/windows.pdf"   target="_blank">  🔗 راهنمای فعال سازی وی پی ان درv2rayNدر ویندوز </a> </p>
+<p align="center" dir="rtl"> <b> آموزش ویدیویی نحوه اضافه کردن اشتراک به نرم افزار v2ray و بروزرسانی کانفیگ ها </b>  </p>
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OYXoZFEMsqk/0.jpg)](https://www.youtube.com/watch?v=OYXoZFEMsqk)
