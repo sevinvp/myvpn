@@ -3,10 +3,10 @@
 <a href="https://sitename.josmit1982-a1.workers.dev" target="_blank" rel="noopener noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
-    <img width="80" height="80" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
+    <img width="60" height="60" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
     </picture>
 </a>
- <h1>SevinVPN</h1>
+ <h1 align="center" >SevinVPN</h1>
 </p>
 
 
