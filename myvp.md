@@ -9,7 +9,7 @@
  <h1 align="center" >SevinVPN</h1>
 </p>
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 
 <p align="center" dir="rtl"><b> فروش فیلتر شکن و وی پی ان V2Ray بدون قطعی، تعداد کاربر نامحدود <b/></p> 
 <p align="center" dir="rtl"><a href="https://sitename.josmit1982-a1.workers.dev"   target="_blank">  🔗 برای خرید فیلترشکن از سایت ما اینجا کلیک کنید   </a> </p>
