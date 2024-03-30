@@ -6,6 +6,7 @@
     <img width="80" height="80" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
     </picture>
 </a>
+ <h1>SevinVPN</h1>
 </p>
 
 
