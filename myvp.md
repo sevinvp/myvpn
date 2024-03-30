@@ -36,3 +36,6 @@
     <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/supp.png" alt="" width="90%" height="auto">
 </a>
 </p>
+        <!--لطفا اصلا به این خط و دو خط پائین دست نزنید جهت استفاده ربات قرار داده شده
+        https://sitename.josmit1982-a1.workers.dev
+        لطفا اصلا به این خط و دو خط پائین دست نزنید جهت استفاده ربات قرار داده شده-->
