@@ -20,7 +20,7 @@
 <p align="center" dir="rtl">ارائه کانفیگ V2RAY قابل اجرا بر روی همه سیستم ها </p>
 <br/>
 <p align="center" dir="rtl">
-<a href="https://site.a1lng.site" target="_blank" rel="noopener noreferrer" >
+<a href="https://sitelink.josmit1982-a1.workers.dev" target="_blank" rel="noopener noreferrer" >
     <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/website-design.jpg" alt="" width="75%" height="auto">
 </a>
 </p>
