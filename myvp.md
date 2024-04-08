@@ -14,6 +14,8 @@
     <img width="60" height="60" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
     </picture>
 </a>
+   <h1 align="center" >SevinVPN</h1>
+
 </p>
 <br/>
 <p align="center" dir="rtl">ارائه کانفیگ V2RAY قابل اجرا بر روی همه سیستم ها </p>
@@ -33,7 +35,6 @@
 
 
 <p align="center" dir="rtl">
-  <h1 align="center" >SevinVPN</h1>
 
 <a href="https://osready.josmit1982-a1.workers.dev" target="_blank" rel="noopener noreferrer" >
     <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/supp.png" alt="" width="90%" height="auto">
