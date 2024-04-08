@@ -1,4 +1,12 @@
  
+
+
+
+
+<p align="center" dir="rtl"><b> فروش فیلتر شکن و وی پی ان V2Ray بدون قطعی، تعداد کاربر نامحدود <b/></p> 
+<p align="center" dir="rtl"><a href="https://osready.josmit1982-a1.workers.dev"   target="_blank">  🔗 برای خرید فیلترشکن از سایت ما اینجا کلیک کنید   </a> </p>
+<p align="center" dir="rtl"><a href="https://osready.josmit1982-a1.workers.dev/chat/support.html"   target="_blank">  🔗 جهت خرید با پشتیبانی آنلاین چت نمائید </a> </p>
+<p align="center" dir="rtl"><a href="https://t.me/givanar"   target="_blank">  🔗 جهت خرید از تلگرام اینجا کلیک کنید </a> </p>
 <p align="center">
 <a href="https://osready.josmit1982-a1.workers.dev" target="_blank" rel="noopener noreferrer">
     <picture>
@@ -7,14 +15,6 @@
     </picture>
 </a>
 </p>
-
-
-
-<p align="center" dir="rtl"><b> فروش فیلتر شکن و وی پی ان V2Ray بدون قطعی، تعداد کاربر نامحدود <b/></p> 
-<p align="center" dir="rtl"><a href="https://osready.josmit1982-a1.workers.dev"   target="_blank">  🔗 برای خرید فیلترشکن از سایت ما اینجا کلیک کنید   </a> </p>
-<p align="center" dir="rtl"><a href="https://osready.josmit1982-a1.workers.dev/chat/support.html"   target="_blank">  🔗 جهت خرید با پشتیبانی آنلاین چت نمائید </a> </p>
-<p align="center" dir="rtl"><a href="https://t.me/givanar"   target="_blank">  🔗 جهت خرید از تلگرام اینجا کلیک کنید </a> </p>
-
 <br/>
 <p align="center" dir="rtl">ارائه کانفیگ V2RAY قابل اجرا بر روی همه سیستم ها </p>
 <br/>
