@@ -6,7 +6,7 @@
 <p align="center" dir="rtl"><b> فروش فیلتر شکن و وی پی ان V2Ray بدون قطعی، تعداد کاربر نامحدود <b/></p> 
 <p align="center" dir="rtl"><a href="https://osready.josmit1982-a1.workers.dev"   target="_blank">  🔗 برای خرید فیلترشکن از سایت ما اینجا کلیک کنید   </a> </p>
 <p align="center" dir="rtl"><a href="https://osready.josmit1982-a1.workers.dev/chat/support.html"   target="_blank">  🔗 جهت خرید با پشتیبانی آنلاین چت نمائید </a> </p>
-<p align="center" dir="rtl"><a href="https://t.me/givanar"   target="_blank">  🔗 جهت خرید از تلگرام اینجا کلیک کنید </a> </p>
+<p align="center" dir="rtl"><a href="https://t.me/itcbiz"   target="_blank">  🔗 جهت خرید از تلگرام اینجا کلیک کنید </a> </p>
 <p align="center">
 <a href="https://osready.josmit1982-a1.workers.dev" target="_blank" rel="noopener noreferrer">
     <picture>
@@ -28,7 +28,7 @@
 
 <br/>
 <p align="center" dir="rtl">پشتیبانی آنلاین</p>
-<p align="center" dir="rtl">با پیوستن به <a target="_blank" href="https://t.me/sevinvpn">کانال تلگرام ما</a> بلافاصله در جریان تغییر احتمالی باشید و با  <a target="_blank" href="https://t.me/givanar">آیدی تلگرام ما</a> و یا <a target="_blank" href="https://t.me/sevinvpn">پشتیبانی آنلاین ما</a> سوالات خود را مطرح نمائید </p>
+<p align="center" dir="rtl">با پیوستن به <a target="_blank" href="https://t.me/sevinvpn">کانال تلگرام ما</a> بلافاصله در جریان تغییر احتمالی باشید و با  <a target="_blank" href="https://t.me/itcbiz">آیدی تلگرام ما</a> و یا <a target="_blank" href="https://t.me/sevinvpn">پشتیبانی آنلاین ما</a> سوالات خود را مطرح نمائید </p>
 
 <br/>
 <div align="center" dir="rtl">
