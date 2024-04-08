@@ -11,7 +11,7 @@
 <a href="https://osready.josmit1982-a1.workers.dev" target="_blank" rel="noopener noreferrer">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
-    <img width="60" height="60" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.png">
+    <img width="60" height="60" src="https://raw.githubusercontent.com/sevinvp/myvp/main/logo.jpg">
     </picture>
 </a>
    <h1 align="center" >SevinVPN</h1>
