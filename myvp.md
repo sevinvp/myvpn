@@ -4,7 +4,7 @@
 
 
 <p align="center" dir="rtl"><b> فروش فیلتر شکن و وی پی ان V2Ray بدون قطعی، تعداد کاربر نامحدود <b/></p> 
-<p align="center" dir="rtl"><a rel="domainchecker" href="https://site.a1lng.site"   target="_blank">  🔗 برای خرید فیلترشکن از سایت ما اینجا کلیک کنید   </a> </p>
+<p align="center" dir="rtl"><a itemprop="text" href="https://site.a1lng.site"   target="_blank">  🔗 برای خرید فیلترشکن از سایت ما اینجا کلیک کنید   </a> </p>
 <p align="center" dir="rtl"><a href="https://site.a1lng.site/chat/support.html"   target="_blank">  🔗 جهت خرید با پشتیبانی آنلاین چت نمائید </a> </p>
 <p align="center" dir="rtl"><a href="https://t.me/itcbiz"   target="_blank">  🔗 جهت خرید از تلگرام اینجا کلیک کنید </a> </p>
 <p align="center">
